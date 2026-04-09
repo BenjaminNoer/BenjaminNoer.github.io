@@ -1,18 +1,23 @@
 const projects = [
   {
-    name: "Project One",
-    url: "https://github.com/yourusername/project-one",
-    image: "images/project1.png"
+    name: "State of Decay 2 Skill Reroll",
+    url: "https://github.com/BenjaminNoer/SoD2-Skill-Reroll",
+    image: "images/sod2skillreroll.png"
   },
   {
-    name: "Project Two",
-    url: "https://github.com/yourusername/project-two",
-    image: "images/project2.png"
+    name: "Borderlands 3 Mayhem",
+    url: "https://github.com/BenjaminNoer/Borderlands-3-Mayhem",
+    image: "images/bo3mayhem.png"
   },
   {
-    name: "Project Three",
-    url: "https://github.com/yourusername/project-three",
-    image: "images/project3.png"
+    name: "Game of Life",
+    url: "https://github.com/BenjaminNoer/GameOfLife",
+    image: "images/gameoflife.png"
+  },
+  {
+    name: "Image to Text",
+    url: "https://github.com/BenjaminNoer/Image-to-Text",
+    image: "images/imagetotext.png"
   }
 ];
 
