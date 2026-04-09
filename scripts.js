@@ -1,1 +1,46 @@
-console.log('test');
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #24292e;
+  color: white;
+  padding: 2rem;
+}
+
+#project-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.project {
+  background-color: white;
+  border-radius: 8px;
+  margin: 1rem;
+  width: 250px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  overflow: hidden;
+  text-align: center;
+}
+
+.project img {
+  width: 100%;
+  height: auto;
+}
+
+.project h3 {
+  margin: 1rem 0;
+}
+
+.project a {
+  display: inline-block;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: #0366d6;
+}
